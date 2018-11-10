@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<!DOCTYPE html>
 <html>
 <body>
 
